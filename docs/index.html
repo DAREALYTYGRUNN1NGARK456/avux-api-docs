@@ -17,6 +17,7 @@ let options = {
 content: "Thank you for using AVUXAPI [join our support server](https://api.avux.ga/support)"
 }
     window.$docsify = {
+basePath: '/',
       loadSidebar: true,
 topBanner: {
    content: "Thank you for using AVUXAPI [join our support server](https://api.avux.ga/support)"
@@ -26,7 +27,10 @@ copyCode: {
     buttonText : 'Copy to clipboard',
     errorText  : 'Error',
     successText: 'Copied'
-  }
+  },
+notFoundPage: {
+"/": "errorPages/_404err_en.md"
+}
 
     }
   </script>

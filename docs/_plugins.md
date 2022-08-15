@@ -6,6 +6,14 @@
 
 [Codeblock Iframe Plugin](https://github.com/HerbertHe/docsify-codeblock-iframe)
 
+[Copy to Clipboard](https://github.com/jperasmus/docsify-copy-code)
+
+[]()
+
+[]()
+
+[]()
+
 []()
 
 []()
@@ -15,11 +23,3 @@
 []()
 
 [DarkLight Theme](https://github.com/boopathikumar018/docsify-darklight-theme)
-
-[]()
-
-[]()
-
-[]()
-
-[]()

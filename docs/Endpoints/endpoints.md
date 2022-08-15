@@ -4,3 +4,5 @@
 <li><a href="/Tools.md">Tools</a></li>
 <li><a href="/NSFW.md">NSFW</a></li>
 </ol>
+
+<a href="/Fun.md">Hola</a>

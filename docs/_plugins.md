@@ -2,7 +2,7 @@
 
 [Change Logs Plugin](https://github.com/Plugin-contrib/docsify-plugin/tree/master/packages/docsify-changelog-plugin)
 
-[]()
+[Chat Plugin](https://github.com/dcyuki/docsify-chat)
 
 []()
 

@@ -1,2 +1,2 @@
 # avux-api-docs
-Hello world!
+[Get Started](/Endpoints/endpoints)

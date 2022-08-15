@@ -1,7 +1,6 @@
 # Endpoints Categories
-<br>
-1 [Fun](Fun.md)
-<br>
-2 [Tools](Tools.md)
-<br>
-3 [NSFW](NSFW.md)
+<ol>
+<li>[Fun](./Fun.md)</li>
+<li>[Tools](./Tools.md)</li>
+<li>[NSFW](./NSFW.md)</li>
+</ol>

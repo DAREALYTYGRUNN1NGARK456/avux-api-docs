@@ -1,6 +1,8 @@
 # Changelogs
 ----
--1 added sine docsify plugins
--2 changed sidebar
--3 added a nav bar
--4 added endpoints functions
+<ol>
+  <li>added sine docsify plugins</li>
+  <li>changed sidebar</li>
+  <li>added a nav bar</li>
+  <li>added endpoints functions</li>
+</ol>
